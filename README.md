@@ -6,7 +6,7 @@ According to healthline website and American Foundation for Suicide Prevention, 
 ![alt text](https://github.com/shalom217/images/blob/master/sui3.jpg)
 
 # Reasons
-The reasons can be many such as  a) job loss or money crises, b) Personal relationships, c) Any kind of harrassment, d) Unsatisfaction in life (Dipression) etc.
+The reasons can be many such as  a) job loss or money crises, b) Personal relationships, c) Any kind of harassment, d) dissatisfaction in life (depression) etc.
 So responsibility of data analytics work domain is to find out the patterns in these kind of datasets containing complete description of suicides and take a step further for the prevention of such deaths..
 
 ![alt text](https://github.com/shalom217/images/blob/master/sui2.jpg)
