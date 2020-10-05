@@ -17,7 +17,21 @@ This dataset tells about how many people have commited suicides between year 198
 Dataset also includes Country, Year, Sex, Age Group, Count of suicides, Population, Suicide rate, GDP, GDP per Capita etc.
 
 # Analysis:
-In the analysis part, i have done exploratory data analysis considering data in every domain such as time, gender, GDPs etc and tried to find out every possible reason of suicides, created many tables(Added table defination in the comments) from the raw data and also represented in charts, please check the excel file.
+In the analysis part, i have done exploratory data analysis considering data in every domain such as time, gender, GDPs etc and tried to find out every possible reason of suicides, created many tables(Added table defination in the comments) from the raw data and also represented in charts, please check the excel file(updated one).
 ![alt text](https://github.com/shalom217/images/blob/master/sui1.jpg)
+
+Since the data is very big(cannot put complete analysis here), So i am sharing some insights of the data.
+Here we go
+![alt text](https://github.com/shalom217/Suicide-Analysis/blob/master/images/Screenshot_1.png)
+![alt text](https://github.com/shalom217/Suicide-Analysis/blob/master/images/Screenshot_2.png)
+![alt text](https://github.com/shalom217/Suicide-Analysis/blob/master/images/Screenshot_3.png)
+![alt text](https://github.com/shalom217/Suicide-Analysis/blob/master/images/Screenshot_4.png)
+![alt text](https://github.com/shalom217/Suicide-Analysis/blob/master/images/Screenshot_5.png)
+![alt text](https://github.com/shalom217/Suicide-Analysis/blob/master/images/Screenshot_6.png)
+![alt text](https://github.com/shalom217/Suicide-Analysis/blob/master/images/Screenshot_7.png)
+![alt text](https://github.com/shalom217/Suicide-Analysis/blob/master/images/Screenshot_8.png)
+![alt text](https://github.com/shalom217/Suicide-Analysis/blob/master/images/Screenshot_9.png)
+![alt text](https://github.com/shalom217/Suicide-Analysis/blob/master/images/Screenshot_10.png)
+
 # Tools used:
-I've used Microsoft excel for this.
+I've used Microsoft Excel with all necessary formulas, Vlookups, Conditional Formatting and Visuals etc.
